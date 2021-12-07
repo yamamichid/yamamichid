@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yamamichi</h1>
 <h3 align="center">Pythonista</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamamichid&count_private=true)
+<div align="center">
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamamichid&count_private=true" />
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</span>
+  </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
